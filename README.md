@@ -1,15 +1,12 @@
-# [`unployment_analysis`]
-> Simple project description.
+# [`Unemployment_analysis`]
+> This project uses data from RAIS - MTE in order to understand what kind of factors are associated with unemployment in Brazi. This is an exercise that is done almost every day by the government and think tank institutions like IPEA - Instuto de Pesquisas Econômicas Aplicadas. What is new here, is the use of machine learning techniques to dive in the data and find insights the may or may not be already known.  
 
-This model is a `type_of_modeling` that `do_something` to solve `this_problem` aimed to the clients of the `some_vertical`.
 
 ## Stakeholders
-> Describe the people involved in this project
 
 | Role                 | Responsibility         | Full name                | e-mail       |
 | -----                | ----------------       | -----------              | ---------    |
-| Data Scientist       | Author                 | [``]            | [``] |
-| Project Owner        | Co-author              | [`First name Last Name`] | [`e-mail`]   |
+| Data Scientist       | Author                 | [`Igor Cortez`]            | [`igorcortez@gmail.com`] |
 
 ## Usage
 > Describe how to reproduce your model
@@ -18,7 +15,7 @@ Usage is standardized across models. There are two main things you need to know,
 
 Both are made super simple to work with Git and Docker while versioning experiments and workspace.
 
-All you'll need to have setup is Docker and Git, which you probably already have. If you don't, feel free to ask for help.
+All you'll need to have setup is Docker and Git, which you probably already have. If you don't, feel free to ask for help.h
 
 Makefile commands can be accessed using `make help`.
 
@@ -30,29 +27,6 @@ Clone the project from the analytics Models repo.
 git clone https://github.com/<@github_username>/unployment_analysis.git
 cd unployment_analysis
 ```
-
-
-## Final Report (to be filled once the project is done)
-
-### Model Frequency
-
-> Describe the interval frequency and estimated total time to run
-
-### Model updating
-
-> Describe how your model may be updated in the future
-
-### Maintenance
-
-> Describe how your model may be maintained in the future
-
-### Minimum viable product
-
-> Describe a minimum configuration that would be able to create a minimum viable product.
-
-### Early adopters
-
-> Describe any potential paying users for this product if it was available today. Also state a point of contact for each of them.
 
 ## Documentation
 
