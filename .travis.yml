@@ -4,3 +4,4 @@ services:
 script:
   - make check
 
+language: python
